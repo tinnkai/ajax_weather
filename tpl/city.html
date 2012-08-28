@@ -1,0 +1,10 @@
+<select name="ajaxcity" id="ajaxcity"  onchange="ajax_City()">
+	{if $cityArr != ""}
+	<option value="" >请选择</option>
+	{foreach from=$cityArr item=row name=show}
+		<option value={$row}>{$row}</option>
+	{/foreach}
+	{else}
+		<option value="" >请选择</option>
+	{/if}
+</select>
