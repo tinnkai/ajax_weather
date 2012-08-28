@@ -2,7 +2,7 @@
 /**
  * index page
  * 
- * @author  chenhaigang <chenhaigang@altech-it.cn>
+ * @author  chenhaigang <chenhaigang@altech-it.cn>65465465465456324165463132
  * @version 20110804
  */
 // read user common file
